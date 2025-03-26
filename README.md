@@ -1,6 +1,6 @@
 # pyminiweb
 
-`pyminiweb` is a mini web framework built to experiment with making my a web framework more-or-less from scratch.
+`pyminiweb` is a mini web framework built to experiment with making my own web framework more-or-less from scratch.
 
 - [pyminiweb](#pyminiweb)
   - [Installation](#installation)
